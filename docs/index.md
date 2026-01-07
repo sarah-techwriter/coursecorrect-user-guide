@@ -6,7 +6,6 @@
 ***Independent disclaimer:*** _This user guide is independently created and not officially endorsed by CourseCorrect. Information is based on user experience and may become outdated as the web platform evolves. For official support, please refer to CourseCorrect's official website and channels._ 
 
 ---
----
 
 ## 1. About This Guide
 ### What this guide covers
@@ -167,31 +166,31 @@ Established professionals focused on continuous learning, leadership development
 	* **Description:** Comprehensive course overview and learning objectives
 	* **Related Fields:** Connected areas of study and complementary topics
 #### Course Content Tabs
-**Career Insights**
-* **Key Topics:** 
-Core subject and skills covered in the course
-* **Career Opportunites:** 
-	* **Complementary skills:** Additional abilites that pair well with the course
-	* **Growth Potentials** Industry demand and career advancement possibilities
-* **Potential Job Roles**
+**Career Insights**  
+* **Key Topics:**   
+Core subject and skills covered in the course  
+* **Career Opportunites:**   
+	* **Complementary skills:** Additional abilites that pair well with the course  
+	* **Growth Potentials** Industry demand and career advancement possibilities  
+* **Potential Job Roles**  
 	* 3 career paths options, each course provides three relevant job opporunities
-	Featuring:
-		* **Job roles:** specific position could pursue
-		* **Salary range:** Expected compensation levels for each role
-		* **Requirements:** Skills, experience, and qualifications needed for each position
+	Featuring:  
+		* **Job roles:** specific position could pursue  
+		* **Salary range:** Expected compensation levels for each role  
+		* **Requirements:** Skills, experience, and qualifications needed for each position  
 	
-**What People Think**
-* **Overall Sentiment:** Positive or negative sentiment analysis
-* **Pros and Cons:** Balanced breakdown of the course strength and limitations
-* **Student Reviews:** Direct testimonials and quotes from actual learners
+**What People Think**  
+* **Overall Sentiment:** Positive or negative sentiment analysis  
+* **Pros and Cons:** Balanced breakdown of the course strength and limitations  
+* **Student Reviews:** Direct testimonials and quotes from actual learners  
 
-**Overview**
- * **Comprehensive Course Description:**
-	 * What the course covers and its practical applications
-	 * Target audience and prerequisites
-	 * Specific examples of what to learn and to do
-	 * Detailed breakdown of key learning outcomes
-	 * How the skills can be adapted across different contexts
+**Overview**  
+ * **Comprehensive Course Description:**  
+	 * What the course covers and its practical applications  
+	 * Target audience and prerequisites  
+	 * Specific examples of what to learn and to do  
+	 * Detailed breakdown of key learning outcomes  
+	 * How the skills can be adapted across different contexts  
 
 **Curriculum:**
 Module-by-module breakdown
@@ -247,13 +246,13 @@ An AI-powered platform that helps you discover the best online courses from mult
 ✔ Learning preferences  
 Plus, it provides **career insights** (job roles, salaries) and **AI recommendations** via Cora.
 #### How does CourseCorrect work?
-CourseCorrect works through three main components:
-1. Seacrh and Filters
-	* Use the search bar with auto-suggestions and  filter by level, language, and provider.
-2. AI Matching (Cora)
-	* Answer a few questions; get personalized course recommendations in 2 minutes. 
-3. Course Details
-	* Explore career insights, reviews, overview, curriculum and more before enrollment.
+CourseCorrect works through three main components:  
+1. Search and Filters  
+	* Use the search bar with auto-suggestions and  filter by level, language, and provider.  
+2. AI Matching (Cora)  
+	* Answer a few questions; get personalized course recommendations in 2 minutes.   
+3. Course Details  
+	* Explore career insights, reviews, overview, curriculum and more before enrollment.  
 #### Who should use CourseCorrect?
 CourseCorrect is designed for anyone looking to advance their skills and career through online learning: **✔ Career Changers**---Find skills needed for new roles. **✔ Professionals**---Upskill for promotions or industry shifts. **✔ Students and Lifelong Learners**---Supplement education or explore interests. ✔ **Busy Learners**---Save time with AI-curated courses.
 #### What makes CourseCorrect different?
@@ -270,25 +269,26 @@ Your Email address on CourseCorrect is linked to your business account. To chang
 Currently, there is no self-service account deletion option available. However, you can log out of your CourseCorrect account at any time using the log out button. If you need your account permanently removed, please contact our support team for assistance with account deletion.
 ### 6.3 Features and Functionality
 #### How accurate are CourseCorrect recommendations?
-Cora delvier relevant suggestions by analyzing:
-* Your stated goals and experience level
-* Popular courses among similar learners
-* Real-time quality indicators
-* Authenticated reviews from actual students
+Cora delvier relevant suggestions by analyzing:  
+* Your stated goals and experience level  
+* Popular courses among similar learners  
+* Real-time quality indicators  
+* Authenticated reviews from actual students  
 
 The more specific information you provide to Cora about your goals and background, the more accurate and personalized your recommendations become.
+
 #### How can I compare courses?
 You can chat with Cora and ask it to compare courses you're interested in. Cora will provide your options' pros and cons, helping you make infomred decisions based on your goals and learning needs.
 #### Can I track multiple career goals?
-Yes! You can explore multiple career paths by:
-* Using Cora to explore different career options
-* Bookmarking/saving courses manually
-* Comparing career options by reviewing the career insights section for each course
+Yes! You can explore multiple career paths by:  
+* Using Cora to explore different career options  
+* Bookmarking/saving courses manually  
+* Comparing career options by reviewing the career insights section for each course  
 #### Does CourseCorrect handle course transactions?
-No. CourseCorrect is a discovery platform that:
-* Directs you to providers for enrollment.
-* Displays all pricing in the "Course Details" section.
-* Never process payment directly.
+No. CourseCorrect is a discovery platform that:  
+* Directs you to providers for enrollment.  
+* Displays all pricing in the "Course Details" section.  
+* Never process payment directly.  
 #### Are course reviews trustworthy?
 Yes! CourseCorrect authenticates all course reviews to ensure genuine insights from real learners. It's provide transparent, honest feedback to help you make informed learning decisions.
 #### How often is content updated?
@@ -299,24 +299,24 @@ CourseCorrect helps you stay ahead by providing personalized recommendations in 
 #### How much does CourseCorrect cost?
 CourseCorrect is completely free to use. There are no subscription fees, hidden cost, or premium tiers---all feature are available to every user at no charge.
 #### What's included?
-All users have access to every feature:
-* Unlimited course searches.
-* Full access to Cora, AI course matching assistant.
-* Complete course details and overview
-* Course filtering tools
-* Save or bookmark capabilities
+All users have access to every feature:  
+* Unlimited course searches.  
+* Full access to Cora, AI course matching assistant.  
+* Complete course details and overview  
+* Course filtering tools  
+* Save or bookmark capabilities  
 #### How does CourseCorrect make money if it's free?
 CourseCorrect earns affiliate commissions from course providers when you enroll through the CourseCorrect platform. There's no additional payment using CourseCorrect.
 ### 6.5 Privacy & Security
 #### How is my data protected?
 CourseCorrect takes a minimal data collection approach to protect your privacy.  When you log in using your business account, CourseCorrect only requests access to your name and email address. The platform focuses on helping you find courses without building detailed user profiles.
 #### Who can see my profile information?
-Your porfile information is private and only accessible to you and CourseCorrect's system for account authentication purposes. Your profile data is used solely for account access and platform functionality.
+Your profile information is private and only accessible to you and CourseCorrect's system for account authentication purposes. Your profile data is used solely for account access and platform functionality.
 #### Can I make my profile private?
 Since CourseCorrect only collects your name and email address for basic authentication, there are no additional privacy settings to configure. Your information is already kept private by default, so there's minimal data that would need additional privacy controls.
 #### How does CourseCorrect use my data?
-CourseCorrect uses your data in very limited ways:
-* Name and Email address: Only for account authentication and login purposes
+CourseCorrect uses your data in very limited ways:  
+* Name and Email address: Only for account authentication and login purposes  
 * AI conversations: Cora references your previous conversations to provide better recommendations, but only when you actively ask questions. Your search history and browsing patterns are not used for AI recommendations. You can delete all conversations or reset your chat history with Cora AI at any time.
 ### 6.6 Technical Support
 #### What browsers work best?
@@ -328,11 +328,11 @@ If you encounter any technical issue while using CourseCorrect, you can contact 
 #### Can I share ideas or feedback about the platform?
 Absolutely! As a new platform, CourseCorrect is actively seeking user feedback and ideas to improve the user experience. Whether it's about new features, user interface improvements, or any other ideas that could make course discovery better. 
 
-To submit feedback:
-1. Click the `menu` button on the top-right corner
-2. Select "Roadmap" from the menu options
-3. On the Roadmap page, click the feedback menu
-4. Click the "+submit" button on the bar to share your ideas.
+To submit feedback:  
+1. Click the `menu` button on the top-right corner  
+2. Select "Roadmap" from the menu options  
+3. On the Roadmap page, click the feedback menu  
+4. Click the "+submit" button on the bar to share your ideas.  
 
 ## 7. Troubleshooting
 ### 7.1 Account Issues
@@ -341,12 +341,14 @@ To submit feedback:
 |---|---|----|----|
 |Google sign-in button not working, authentication fails|Personal Google account used, pop-up blocked, multiple accounts|1. Ensure using business/educational Google account <br> 2. Enable pop-ups <br> 3. Clear browser cache|Use business Google account, whitelist CourseCorrect domain|
 |"Account type not supported" message| Using personal Gmail account|Switch to business/educational Google account|Verify account type before attempting login|
-|Stuck after clicking "continue"|Process freezes after clicking "continue" on the permissions screen|Declinced access permissions, firewall blocking|1. Re-authorize CourseCorrect access<br>2. Accept name.email permissions<br>3. Check corporate firewall settings|
-### 7.3 Data & Progress Issues
+|Stuck after clicking "continue"|Process freezes after clicking "continue" on the permissions screen|Declinced access permissions, firewall blocking|1. Re-authorize CourseCorrect access<br>2. Accept name.email permissions<br>3. Check corporate firewall settings|  
+
+### 7.3 Data & Progress Issues  
 |Problem|Symptoms|Possible Causes|Solutions|Prevention|
 |-----|------|--------|------|---|
 |Incorrect Recommendation| Irrelevant course suggestions | Vague search terms, poor filtering, unclear conversations with Cora AI|1. Try different filter combinations that matched your specific needs <br> 2. Ask Cora AI for personalized recommendations <br> 3.Use clear, specific prompts that match your neeeds <br> 4. Be detailed about your goals|Use specific search terms and previously discuss with Cora AI|
 |No search results| Empty results page, "No courses found"| Overly specific filters, typos in search terms, unsupported topics|1. Clear all filters and retry<br>2. Check spelling of search terms<br> 3. Try borader, more general topic/keywords|Start with general terms or related topic course|
+
 ### 7.4 Performance Issues
 #### General Slowness
 |Problem|Symptoms|Possible Causes| Solutions|Prevention|
