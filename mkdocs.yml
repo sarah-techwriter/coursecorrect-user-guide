@@ -1,0 +1,15 @@
+site_name: CourseCorrect User Guide
+site_description: Comprehensive user documentation for CourseCorrect platform
+site_author: Sarah Amalia
+
+theme:
+  name: readthedocs
+  
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - fenced_code
+  - attr_list
+  - def_list
